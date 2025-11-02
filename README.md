@@ -17,7 +17,7 @@ The website includes a homepage, shop, contact, and about sections.
 
 ## How to View
 You can view the live version of this project here:  
-[Live Demo](https://yourusername.github.io/modern-fashion-webpage)
+[Live Demo](https://adeebarafi.github.io/Shopping-Cart-WebPage.github.io/)
 
 ## How to Use
 1. Clone the repository  
